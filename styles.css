@@ -6071,7 +6071,7 @@ input[type=submit]:where(:hover, :active)
     font-size: 25px;
   }
   footer .footer_section .footer_contact ul li .facebook{
-    margin-left: 50%;
+    margin: auto;
   }
   footer .footer_section .footer_contact ul li{
     font-size: 1.4rem;
@@ -6213,7 +6213,7 @@ input[type=submit]:where(:hover, :active)
     font-size: 25px;
   }
   footer .footer_section .footer_contact ul li .facebook{
-    margin-left: 50%;
+    margin:auto;
   }
   footer .footer_section .footer_contact ul li{
     font-size: 1.4rem;
@@ -6355,7 +6355,7 @@ input[type=submit]:where(:hover, :active)
     font-size: 25px;
   }
   footer .footer_section .footer_contact ul li .facebook{
-    margin-left: 0;
+    margin: auto;
   }
   footer .footer_section .footer_contact ul li{
     font-size: 1.4rem;
@@ -6498,7 +6498,7 @@ input[type=submit]:where(:hover, :active)
   }
   footer .footer_section .footer_contact ul li .facebook{
     background: none;
-    margin-left: 49%;
+    margin: auto;
   }
   footer .footer_section .footer_contact ul li{
     font-size: 1.4rem;
@@ -6641,7 +6641,7 @@ input[type=submit]:where(:hover, :active)
   }
   footer .footer_section .footer_contact ul li .facebook{
     background: none;
-    margin-left: 49%;
+    margin: auto;
   }
   footer .footer_section .footer_contact ul li{
     font-size: 1.4rem;
