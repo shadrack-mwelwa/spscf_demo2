@@ -1478,9 +1478,10 @@ input[type=submit]:where(:hover, :active)
     font-size: 1.4rem;
   }
   .aboutSummary img{
-    width: 20rem;
-    aspect-ratio: 4/3;
     object-fit: cover;
+    min-width: 100%;
+    max-height: 26rem;
+    object-position: 50% 45%;
   }
 }
 /*for-tablet-portrait-up */
@@ -1522,10 +1523,10 @@ input[type=submit]:where(:hover, :active)
     margin: 0rem 0rem 0rem;
   }
   .aboutSummary img{
-    max-width: 50rem;
-    aspect-ratio: 1/1;
     object-fit: cover;
-    margin: 0 auto;
+    min-width: 100%;
+    max-height: 26rem;
+    object-position: 50% 45%;
   }
 }
 /* for-tablet-landscape-up */
@@ -1562,9 +1563,10 @@ input[type=submit]:where(:hover, :active)
     margin: 2rem 0rem 2rem;
   }
   .aboutSummary img{
-    width: 50rem;
-    aspect-ratio: 1/1;
     object-fit: cover;
+    min-width: 100%;
+    max-height: 26rem;
+    object-position: 50% 45%;
   }
 }
 /* for-desktop-up */
@@ -1718,10 +1720,10 @@ input[type=submit]:where(:hover, :active)
     overflow: hidden;
   }
   .currentPrograms .nonefeatured .container a img{
-    aspect-ratio: 1/1;
     object-fit: cover;
-    width: 100%;
-    height: 90%;
+    min-width: 100%;
+    height: 18rem;
+    object-position: 50% 13%;
   }
   .currentPrograms .nonefeatured .container article{
         padding-left: 1rem;
@@ -1822,10 +1824,11 @@ input[type=submit]:where(:hover, :active)
     max-width: 20rem;
   }
   .currentPrograms .nonefeatured .container a img{
-    aspect-ratio: 1/1;
     object-fit: cover;
-    width: clamp(20rem, 2vw, 30rem);
-    height: clamp(20rem, 2vw, 30rem);
+    min-width: 100%;
+    height: clamp(18rem, 2vw, 30rem);
+    object-position: 50% 13%;
+    object-fit: cover;
   }
   .currentPrograms .nonefeatured .container article{
     text-align: left;
@@ -1920,10 +1923,11 @@ input[type=submit]:where(:hover, :active)
     max-width: 20rem;
   }
   .currentPrograms .nonefeatured .container a img{
-    aspect-ratio: 1/1;
     object-fit: cover;
-    width: clamp(20rem, 2vw, 30rem);
-    height: clamp(20rem, 2vw, 30rem);
+    min-width: 100%;
+    height: clamp(18rem, 2vw, 30rem);
+    object-position: 50% 13%;
+    object-fit: cover;
   }
   .currentPrograms .nonefeatured .container article{
     text-align: left;
