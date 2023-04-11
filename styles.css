@@ -5686,7 +5686,7 @@ input[type=submit]:where(:hover, :active)
     white-space: nowrap;
   }
   .articlePost .articlesAside ul li{
-    width: 18rem
+    width: 22rem;
   }
   .articlePost .articlesAside ul li a{
     font-size: 1.5rem;
@@ -5750,7 +5750,7 @@ input[type=submit]:where(:hover, :active)
     white-space: nowrap;
   }
   .articlePost .articlesAside ul li{
-    width: 18rem
+    width: 22rem;
   }
   .articlePost .articlesAside ul li a{
     font-size: 1.5rem;
