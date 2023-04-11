@@ -5973,8 +5973,12 @@ input[type=submit]:where(:hover, :active)
   .usefulLinks, .latestNews, .footer_contact{
     min-width: 100%;
     letter-spacing: 1px;
-    margin: 0 2rem 0 2rem;
+    margin: 2rem 2rem 0 2rem;
   }
+  .footerAbout a >*{
+    margin: auto;
+    display: block;
+    }
   footer .footer_section ul{
     list-style: none;
     line-height: 2.5;
