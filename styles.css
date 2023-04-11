@@ -3103,9 +3103,10 @@ input[type=submit]:where(:hover, :active)
     text-align: left;    
   }
   .treatmentHurdleImg{
-    width: 30rem;
-    aspect-ratio: 1/1;
+    min-width: 100%;
     object-fit: cover;
+    height: 28rem;
+    object-position: 50% 28%;
   }
   .programIntro .whatisCP{
     margin: auto;
@@ -3383,11 +3384,10 @@ input[type=submit]:where(:hover, :active)
     text-align: left;    
   }
   .treatmentHurdleImg{
-    width: 75%;
-    aspect-ratio: 5/3;
+    min-width: 100%;
     object-fit: cover;
-    object-position: 50% 25%;
-    margin: 2rem auto;
+    height: 28rem;
+    object-position: 50% 28%;
   }
   .programIntro .whatisCP{
     margin: auto;
@@ -3524,11 +3524,10 @@ input[type=submit]:where(:hover, :active)
     object-fit: cover;
   }
   .treatmentHurdleImg {
-    width: 75%;
-    aspect-ratio: 5/3;
+      min-width: 100%;
     object-fit: cover;
-    object-position: 50% 25%;
-    margin: auto auto auto 6rem;
+    height: 28rem;
+    object-position: 50% 28%;;
   }
   .scenariosWvz .treatmentHurdlesList{
     margin: 4rem 1rem 0rem;
@@ -3561,10 +3560,11 @@ input[type=submit]:where(:hover, :active)
     padding: 0;
   }
   .rehab img{
-    width: 50%;
-    aspect-ratio: 1/1;
-    margin: 3rem 0rem 5rem 3rem;
+    min-width: 100%;
+    margin: 5rem 0rem 0rem 0rem;
     object-fit: cover;
+    height: 30rem;
+    object-position: 50% 70%;
   }
   .awareness{
     align-items: center;
@@ -3647,10 +3647,11 @@ input[type=submit]:where(:hover, :active)
     background: var(--blue-opacity);
   }
   .rehab img{
-    width: 43rem;
-    aspect-ratio: 1.1;
-    margin: 8rem 0rem 8rem 20rem;
+    min-width: 100%;
+    margin: 5rem 0rem 0rem 0rem;
     object-fit: cover;
+    height: 30rem;
+    object-position: 50% 70%;
   }
   .awareness{
     align-items: center;
