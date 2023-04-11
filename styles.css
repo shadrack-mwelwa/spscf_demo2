@@ -848,7 +848,7 @@ input[type=submit]:where(:hover, :active)
     .sr-only {
       display:none;
     }
-  .primary-navigation{
+  .primary-header .site-nav .primary-navigation{
     --gap: clamp(1.5rem, 5vw, 3rem);
     padding-block: 2rem;
     padding-inline: clamp(7rem, 5vw, 30rem);
@@ -856,6 +856,7 @@ input[type=submit]:where(:hover, :active)
     position: inherit;
     flex-direction: row;
     transform: unset;
+    display: inherit;      
   }
   .primary-navigation li a{
     font-size: 2rem;
@@ -897,7 +898,7 @@ input[type=submit]:where(:hover, :active)
     .sr-only {
       display:none;
     }
-  .primary-navigation{
+  .primary-header .site-nav .primary-navigation{
     --gap: clamp(1.5rem, 5vw, 3rem);
     padding-block: 2rem;
     padding-inline: clamp(7rem, 5vw, 30rem);
@@ -905,6 +906,7 @@ input[type=submit]:where(:hover, :active)
     position: inherit;
     flex-direction: row;
     transform: unset;
+    display: inherit;      
   }
   .primary-navigation li a{
     font-size: 2rem;
