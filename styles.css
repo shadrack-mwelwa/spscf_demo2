@@ -5984,6 +5984,7 @@ input[type=submit]:where(:hover, :active)
     font-style: normal;
     color: var(--bckgnd-white);
     margin: 0 0 1rem 0;
+    text-align: center;
   }
   /*Footer About*/
   footer .footerAbout a img{
@@ -6125,6 +6126,7 @@ input[type=submit]:where(:hover, :active)
     font-style: normal;
     color: var(--bckgnd-white);
     margin: 0 0 1rem 0;
+    text-align:center;
   }
   /*Footer About*/
   footer .footerAbout a img{
@@ -6266,6 +6268,7 @@ input[type=submit]:where(:hover, :active)
     font-style: normal;
     color: var(--bckgnd-white);
     margin: 0 0 1rem 0;
+    text-align: center;
   }
   /*Footer About*/
   footer .footerAbout a img{
