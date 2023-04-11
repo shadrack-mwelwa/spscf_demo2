@@ -4406,7 +4406,7 @@ input[type=submit]:where(:hover, :active)
 /*VOLUNTEEER UTILITIES ENDS*/
 .volunteerPage .volunteryForm{
   width: 100%;
-  padding: 0 0 0 0rem;
+  padding: 0 0 0 5rem;
   margin: auto;
   text-align:left; 
   border-radius:0.25rem;   
@@ -4498,7 +4498,7 @@ input[type=submit]:where(:hover, :active)
 /*VOLUNTEEER UTILITIES ENDS*/
 .volunteerPage .volunteryForm{
   width: 100%;
-  padding: 0 0 0 0rem;
+  padding: 0 0 0 3rem;
   margin: auto;
   text-align:left; 
   border-radius:0.25rem;   
@@ -4590,7 +4590,7 @@ input[type=submit]:where(:hover, :active)
 /*VOLUNTEEER UTILITIES ENDS*/
 .volunteerPage .volunteryForm{
   width: 100%;
-  padding: 0 0 0 0rem;
+  padding: 0 0 0 5rem;
   margin: auto;
   text-align:left; 
   border-radius:0.25rem;   
