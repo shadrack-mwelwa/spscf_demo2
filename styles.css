@@ -572,11 +572,15 @@ input[type=submit]:where(:hover, :active)
   }
   @keyframes menuOpen{
     0% {transform: translateX(0%);}
+    0% {-webkit-transition:translateX(0%);}  
     100% {transform:translateX(100%);}
+    100% {-webkit-transform:translateX(100%);}  
   }
   @keyframes menuClose{
     0% {transform: translateX(100%);}
+    0% {-webkit-transform: translateX(100%);}
     100% {transform:translateX(0%);}
+    100% {-webkit-transform:translateX(0%);}  
   }
   .primary-navigation li{
     margin: 2rem;
