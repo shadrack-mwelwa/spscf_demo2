@@ -5489,9 +5489,11 @@ input[type=submit]:where(:hover, :active)
     -webkit-line-clamp: 5;
     line-clamp: 5;
     -webkit-box-orient: vertical;
+    padding: 0;
   }
   .newsPage .cardStory a{
     margin: 0rem 0rem 3rem 0;
+    flex-wrap: wrap;
   }
   .newsPage .cardStory a >*{
     flex:1;
@@ -5538,6 +5540,7 @@ input[type=submit]:where(:hover, :active)
   }
   .newsPage .cardStory a{
     padding: 0rem 4rem 0 4rem
+    flex-wrap: wrap;
   }
   .newsPage .cardStory .cardStoryImage{
     aspect-ratio: 3/5;
@@ -5562,6 +5565,7 @@ input[type=submit]:where(:hover, :active)
     -webkit-line-clamp: 5;
     line-clamp: 5;
     -webkit-box-orient: vertical;
+     padding: 0;
   }
   .newsPage .userActions{
     padding: 2rem;
@@ -5590,6 +5594,7 @@ input[type=submit]:where(:hover, :active)
   }
   .newsPage .cardStory {
     margin: 0rem;
+    flex-wrap: wrap;
   }
   .newsPage .cardStory a {
     padding: 0rem 6rem 0 6rem;
@@ -5604,6 +5609,7 @@ input[type=submit]:where(:hover, :active)
     -webkit-line-clamp: 5;
     line-clamp: 5;
     -webkit-box-orient: vertical;
+    padding: 0;
   }
   .newsPage .cardStory .cardStoryImage {
     aspect-ratio: 1/1;
