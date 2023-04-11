@@ -3723,10 +3723,10 @@ input[type=submit]:where(:hover, :active)
     margin: 1rem 3rem 1rem 3rem;
   }
   .stemcellTherapyImg{
-    width: 100%;
+    min-width: 100%;
     margin: 1rem 0rem 0 0rem;
     object-fit: cover;
-    aspect-ratio: 1/0;
+    height: 25rem;
   }
   .stemcell_therapy .stemcellP{
     margin: 2rem 3rem 0rem 3rem;
@@ -3777,10 +3777,10 @@ input[type=submit]:where(:hover, :active)
     margin: 1rem 3rem 1rem 3rem;
   }
   .stemcellTherapyImg{
-    width: 100%;
+    min-width: 100%;
     margin: 1rem 0rem 0 0rem;
     object-fit: cover;
-    aspect-ratio: 1/0;
+    height: 25rem;
   }
   .stemcell_therapy .stemcellP{
     margin: 2rem 3rem 0rem 3rem;
