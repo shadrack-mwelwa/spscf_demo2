@@ -3528,7 +3528,7 @@ input[type=submit]:where(:hover, :active)
     object-fit: cover;
   }
   .treatmentHurdleImg {
-    width: 65%;
+    width: 45%;
     aspect-ratio: 5/3;
     object-fit: cover;
     object-position: 50% 25%;
