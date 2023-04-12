@@ -6456,7 +6456,7 @@ input[type=submit]:where(:hover, :active)
   }
   /*Footer About*/
   footer .footerAbout a img{
-    margin: 0 0 1rem 0;
+    margin: auto;
   }
   footer .footer_section .aboutSum{
     width: 100%;
