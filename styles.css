@@ -2657,7 +2657,7 @@ input[type=submit]:where(:hover, :active)
   }
   .aboutUs img{
     margin: auto;
-    width: 30rem;
+    width: 15rem;
   }
   .aboutUs article{
     font-size: 1.7rem;
