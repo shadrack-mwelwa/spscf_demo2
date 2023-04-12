@@ -6429,6 +6429,7 @@ input[type=submit]:where(:hover, :active)
   }
   footer .footer_section > * {
     flex: 1;
+    text-align: center;
   }
   /*Footer Defaults*/
   .footerAbout, 
@@ -6473,6 +6474,15 @@ input[type=submit]:where(:hover, :active)
     font-size: 1.5rem;
   }
   /*Footer Useful Links Privacy Policy*/
+  footer  .usefulLinks{
+     flex: 0;
+    }
+  footer .usefulLinks .footer_header{
+     width: max-content;
+    }
+  footer .usefulLinks ul{
+     width: max-content;
+    }
   footer .usefulLinks ul .PrivacyPolicy{
     font-family: var(--secondary-font);
   }
