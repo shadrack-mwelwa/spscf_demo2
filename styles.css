@@ -3560,6 +3560,10 @@ input[type=submit]:where(:hover, :active)
     background: var(--blue-opacity);
     flex-wrap: unset;
   }
+  .rehab .lst {
+    margin: 1rem 4rem 5rem;
+    font-size: 2.7rem;
+   }
   .rehab .rehabCenter {
     font-size: 4.7rem;
     margin: 5rem 1rem 1rem 0rem;
