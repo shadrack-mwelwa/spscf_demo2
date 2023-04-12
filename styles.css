@@ -3528,11 +3528,12 @@ input[type=submit]:where(:hover, :active)
     object-fit: cover;
   }
   .treatmentHurdleImg {
-     width: 75%;
+    width: 65%;
     aspect-ratio: 5/3;
     object-fit: cover;
     object-position: 50% 25%;
-    margin: auto auto auto 6rem;
+    min-width: unset;
+    height: unset;
   }
   .scenariosWvz .treatmentHurdlesList{
     margin: 4rem 1rem 0rem;
