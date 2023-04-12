@@ -1614,9 +1614,11 @@ input[type=submit]:where(:hover, :active)
     margin: 0rem -4rem 0rem 3rem;
   }
   .aboutSummary img{
-    width: 50rem;
-    aspect-ratio: 1/1;
+     width: 50rem;
+    aspect-ratio: 1 / 1;
     object-fit: cover;
+    max-height: none;
+    min-width: unset;
   }
 }
 /* for-big-desktop-up */
