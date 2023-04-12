@@ -3570,7 +3570,7 @@ input[type=submit]:where(:hover, :active)
     padding: 0;
   }
   .rehab img{
-    width: 50%;
+    width: 40%;
     aspect-ratio: 1/1;
     margin: 3rem 0rem 5rem 3rem;
     object-fit: cover;
