@@ -3577,9 +3577,9 @@ input[type=submit]:where(:hover, :active)
     flex-wrap: unset;
   }
   .awareness img{
-    width: 60%;
+    width: 40%;
     aspect-ratio: 1/1;
-    margin: 0 5rem auto auto;
+    margin: 0 5rem 5rem auto;
     object-fit: cover;
   }
   /*Programs Utilities END*/
