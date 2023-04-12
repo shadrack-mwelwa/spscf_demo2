@@ -3896,15 +3896,17 @@ input[type=submit]:where(:hover, :active)
     font-size: 2rem;
   }
   .stemcellTherapyImg{
-    width: 100%;
+    width: 45%;
     margin: 2rem 0rem 0 4rem;
     object-fit: cover;
+    min-width: unset;
+    height: unset;
   }
   .stemcell_therapy div {
     flex-wrap: unset;
   }
   .stemcell_therapy .stemcellP {
-    margin: 1rem 3rem 1rem 0rem;
+    margin: 3rem 3rem 1rem 0rem;
   }
   .stemcellP{
   margin: 2rem 10rem 0rem 0rem;
