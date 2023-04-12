@@ -6470,7 +6470,7 @@ input[type=submit]:where(:hover, :active)
     width: 100%;
   }
   footer .footer_section p{
-    font-size: 1.1rem;
+    font-size: 1.5rem;
   }
   /*Footer Useful Links Privacy Policy*/
   footer .usefulLinks ul .PrivacyPolicy{
