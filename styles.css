@@ -2384,9 +2384,11 @@ input[type=submit]:where(:hover, :active)
     justify-items: center;
   }
   .news-card a img{
-    width: 100%;
-    aspect-ratio: 1/1;
+     width: 100%;
+    aspect-ratio: 1 / 1;
     object-fit: cover;
+    min-width: unset;
+    height: unset;
   } 
   .news-card a div h3{
     font-size: 1.9rem;
