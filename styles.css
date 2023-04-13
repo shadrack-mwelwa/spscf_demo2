@@ -5335,18 +5335,20 @@ input[type=submit]:where(:hover, :active)
   }
     .donatePage .moreInfo dl{
       font-size: 5rem;
-      margin: 0 3rem 0 3rem;
+      margin: 0;
       font-family: var(--secondary-font);
       color: var(--text-color);
+      text-align: center;
     }
     .donatePage .moreInfo dl dt{
        text-decoration-line: unset;    
     }
     .donatePage .moreInfo .mobileMoneyNote{
         font-size: 2rem;
-        margin: 1rem 3rem 1rem 3rem;
+        margin: 0;
         font-family: var(--secondary-font);
         color: var(--text-color);
+        text-align: center;
     }
   .donatePage form{
     width: 90%;
@@ -5518,18 +5520,20 @@ input[type=submit]:where(:hover, :active)
   }
     .donatePage .moreInfo dl{
       font-size: 5rem;
-      margin: 0 3rem 0 3rem;
+      margin: 0;
       font-family: var(--secondary-font);
       color: var(--text-color);
+      text-align: center;
     }
     .donatePage .moreInfo dl dt{
        text-decoration-line: unset;    
     }
     .donatePage .moreInfo .mobileMoneyNote{
         font-size: 2rem;
-        margin: 1rem 3rem 1rem 3rem;
+        margin: 0;
         font-family: var(--secondary-font);
         color: var(--text-color);
+        text-align: center;
     }
   .donatePage form{
     width: 50%;
