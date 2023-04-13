@@ -5391,7 +5391,7 @@ input[type=submit]:where(:hover, :active)
     }
    .donatePage ul {
         font-size: 3.3rem;
-        margin: 2rem 3rem 0rem 1rem;
+        margin: 2rem 13% 0rem 13%;
         color: var(--text-color);
     }    
   .oneTimeDonationSection{
