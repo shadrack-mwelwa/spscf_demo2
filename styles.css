@@ -5204,7 +5204,7 @@ input[type=submit]:where(:hover, :active)
     }
    .donatePage ul {
         font-size: 3.3rem;
-        margin: 2rem 3rem 0rem 1rem;
+        margin: 2% 15% 0% 9%;
         color: var(--text-color);
     }    
   /*Donate Utility*/
