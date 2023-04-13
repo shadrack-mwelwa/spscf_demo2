@@ -4929,11 +4929,14 @@ input[type=submit]:where(:hover, :active)
     .donatePage .moreInfo dl dt{
        text-decoration-line: unset;    
     }
-    .donatePage .moreInfo mobileMoneyNote{
+    .donatePage .moreInfo .mobileMoneyNote{
         font-size: 2rem;
         margin: 1rem 3rem 1rem 3rem;
         font-family: var(--secondary-font);
         color: var(--text-color);
+    }
+    .donatePage .moreInfo .mobileMoneyNote i{
+        line-height: 1;
     }
   .donatePage form{
     width: 90%;
@@ -5134,7 +5137,7 @@ input[type=submit]:where(:hover, :active)
     .donatePage .moreInfo dl dt{
        text-decoration-line: unset;    
     }
-    .donatePage .moreInfo mobileMoneyNote{
+    .donatePage .moreInfo .mobileMoneyNote{
         font-size: 2rem;
         margin: 1rem 3rem 1rem 3rem;
         font-family: var(--secondary-font);
@@ -5339,7 +5342,7 @@ input[type=submit]:where(:hover, :active)
     .donatePage .moreInfo dl dt{
        text-decoration-line: unset;    
     }
-    .donatePage .moreInfo mobileMoneyNote{
+    .donatePage .moreInfo .mobileMoneyNote{
         font-size: 2rem;
         margin: 1rem 3rem 1rem 3rem;
         font-family: var(--secondary-font);
@@ -5522,7 +5525,7 @@ input[type=submit]:where(:hover, :active)
     .donatePage .moreInfo dl dt{
        text-decoration-line: unset;    
     }
-    .donatePage .moreInfo mobileMoneyNote{
+    .donatePage .moreInfo .mobileMoneyNote{
         font-size: 2rem;
         margin: 1rem 3rem 1rem 3rem;
         font-family: var(--secondary-font);
