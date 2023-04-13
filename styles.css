@@ -4941,9 +4941,10 @@ input[type=submit]:where(:hover, :active)
     }
   
     .donatePage dl{
-        margin: 0 3rem;
+        margin: auto;
         font-size: 2.5rem;
         font-family: var(--header-font);
+        width: max-content;
     }
     .donatePage dl dt{
         color: var(--header-color);
@@ -5157,9 +5158,10 @@ input[type=submit]:where(:hover, :active)
         color: var(--text-color);
     }
     .donatePage dl{
-        margin: 0 3rem;
+        margin: auto;
         font-size: 2.5rem;
         font-family: var(--header-font);
+        width: max-content;
     }
     .donatePage dl dt{
         color: var(--header-color);
@@ -5375,9 +5377,10 @@ input[type=submit]:where(:hover, :active)
         text-align: center;
     }
    .donatePage dl{
-        margin: 0 3rem;
+        margin: auto;
         font-size: 2.5rem;
         font-family: var(--header-font);
+        width: max-content;
     }
     .donatePage dl dt{
         color: var(--header-color);
@@ -5571,9 +5574,10 @@ input[type=submit]:where(:hover, :active)
         text-align: center;
     }
    .donatePage dl{
-        margin: 0 3rem;
+        margin: auto;
         font-size: 2.5rem;
         font-family: var(--header-font);
+        width: max-content;
     }
     .donatePage dl dt{
         color: var(--header-color);
