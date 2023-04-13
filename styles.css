@@ -4920,6 +4920,21 @@ input[type=submit]:where(:hover, :active)
   .donatePage .moreInfo{
     padding: 2rem 0rem 2rem 0rem;
   }
+  .donatePage .moreInfo dl{
+      font-size: 5rem;
+      margin: 0 3rem 0 3rem;
+      font-family: var(--secondary-font);
+      color: var(--text-color);
+    }
+    .donatePage .moreInfo dl dt{
+       text-decoration-line: unset;    
+    }
+    .donatePage .moreInfo mobileMoneyNote{
+        font-size: 2rem;
+        margin: 1rem 3rem 1rem 3rem;
+        font-family: var(--secondary-font);
+        color: var(--text-color);
+    }
   .donatePage form{
     width: 90%;
     margin: auto;
@@ -5110,6 +5125,21 @@ input[type=submit]:where(:hover, :active)
   .donatePage .moreInfo{
     padding: 2rem 0rem 2rem 0rem;
   }
+    .donatePage .moreInfo dl{
+      font-size: 5rem;
+      margin: 0 3rem 0 3rem;
+      font-family: var(--secondary-font);
+      color: var(--text-color);
+    }
+    .donatePage .moreInfo dl dt{
+       text-decoration-line: unset;    
+    }
+    .donatePage .moreInfo mobileMoneyNote{
+        font-size: 2rem;
+        margin: 1rem 3rem 1rem 3rem;
+        font-family: var(--secondary-font);
+        color: var(--text-color);
+    }
   .donatePage form{
     width: 90%;
     margin: auto;
@@ -5300,6 +5330,21 @@ input[type=submit]:where(:hover, :active)
   .donatePage .moreInfo{
     padding: 2rem 0rem 2rem 0rem;
   }
+    .donatePage .moreInfo dl{
+      font-size: 5rem;
+      margin: 0 3rem 0 3rem;
+      font-family: var(--secondary-font);
+      color: var(--text-color);
+    }
+    .donatePage .moreInfo dl dt{
+       text-decoration-line: unset;    
+    }
+    .donatePage .moreInfo mobileMoneyNote{
+        font-size: 2rem;
+        margin: 1rem 3rem 1rem 3rem;
+        font-family: var(--secondary-font);
+        color: var(--text-color);
+    }
   .donatePage form{
     width: 90%;
     max-width: 70rem;
@@ -5468,6 +5513,21 @@ input[type=submit]:where(:hover, :active)
   .donatePage .moreInfo{
     padding: 2rem 0rem 2rem 0rem;
   }
+    .donatePage .moreInfo dl{
+      font-size: 5rem;
+      margin: 0 3rem 0 3rem;
+      font-family: var(--secondary-font);
+      color: var(--text-color);
+    }
+    .donatePage .moreInfo dl dt{
+       text-decoration-line: unset;    
+    }
+    .donatePage .moreInfo mobileMoneyNote{
+        font-size: 2rem;
+        margin: 1rem 3rem 1rem 3rem;
+        font-family: var(--secondary-font);
+        color: var(--text-color);
+    }
   .donatePage form{
     width: 50%;
     max-width: unset;
