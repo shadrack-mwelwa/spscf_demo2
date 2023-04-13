@@ -4831,10 +4831,10 @@ input[type=submit]:where(:hover, :active)
     text-align: left;
     margin: 5rem 3rem 2rem 3rem;
    }
-   .donatePage h3 ul li::before{
+   .donatePage ul li::before{
         color:var(--header-color);
     }
-   .donatePage h3 ul {
+   .donatePage ul {
         font-size: 3.3rem;
         margin: 2rem 3rem 0rem 1rem;
         color: var(--text-color);
@@ -5009,10 +5009,10 @@ input[type=submit]:where(:hover, :active)
     text-align: left;
     margin: 5rem 3rem 2rem 3rem;
    }
-   .donatePage h3 ul li::before{
+   .donatePage ul li::before{
         color:var(--header-color);
     }
-   .donatePage h3 ul {
+   .donatePage ul {
         font-size: 3.3rem;
         margin: 2rem 3rem 0rem 1rem;
         color: var(--text-color);
@@ -5199,10 +5199,10 @@ input[type=submit]:where(:hover, :active)
     text-align: left;
     margin: 5rem 3rem 2rem 3rem;
    }
-   .donatePage h3 ul li::before{
+   .donatePage ul li::before{
         color:var(--header-color);
     }
-   .donatePage h3 ul {
+   .donatePage ul {
         font-size: 3.3rem;
         margin: 2rem 3rem 0rem 1rem;
         color: var(--text-color);
