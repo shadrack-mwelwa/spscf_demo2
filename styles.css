@@ -5003,6 +5003,20 @@ input[type=submit]:where(:hover, :active)
   .donatePage .donateHeader h1{
     color:var(--bckgnd-white);
   }
+    .donatePage h3{
+    font-size: 3rem;
+    font-weight: 400;
+    text-align: left;
+    margin: 5rem 3rem 2rem 3rem;
+   }
+   .donatePage h3 ul li::before{
+        color:var(--header-color);
+    }
+   .donatePage h3 ul {
+        font-size: 3.3rem;
+        margin: 2rem 3rem 0rem 1rem;
+        color: var(--text-color);
+    }    
   /*Donate Utility*/
   .donatePage .defaultArticle{
     font-size: 2rem;
@@ -5179,6 +5193,20 @@ input[type=submit]:where(:hover, :active)
   .donatePage .donateHeader h1{
     color:var(--bckgnd-white);
   }
+    .donatePage h3{
+    font-size: 3rem;
+    font-weight: 400;
+    text-align: left;
+    margin: 5rem 3rem 2rem 3rem;
+   }
+   .donatePage h3 ul li::before{
+        color:var(--header-color);
+    }
+   .donatePage h3 ul {
+        font-size: 3.3rem;
+        margin: 2rem 3rem 0rem 1rem;
+        color: var(--text-color);
+    }    
   /*Donate Utility*/
   .donatePage .defaultArticle{
     font-size: 2rem;
@@ -5352,6 +5380,20 @@ input[type=submit]:where(:hover, :active)
   .donatePage .defaultArticle b{
     font-size: 2rem;
   }
+    .donatePage h3{
+    font-size: 3rem;
+    font-weight: 400;
+    text-align: left;
+    margin: 5rem 3rem 2rem 3rem;
+   }
+   .donatePage h3 ul li::before{
+        color:var(--header-color);
+    }
+   .donatePage h3 ul {
+        font-size: 3.3rem;
+        margin: 2rem 3rem 0rem 1rem;
+        color: var(--text-color);
+    }    
   .oneTimeDonationSection{
     padding: 6rem 2rem 6rem 2rem;
   } 
