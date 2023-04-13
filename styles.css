@@ -4825,6 +4825,12 @@ input[type=submit]:where(:hover, :active)
     font-size: 3.5rem;
     text-align: center;
   }
+  .donatePage h3{
+    font-size: 3rem;
+    font-weight: 400;
+    text-align: left;
+    margin: 5rem 3rem 2rem 3rem;
+   }
   .donatePage .defaultArticle a{
     font-size: 2rem;
   }
