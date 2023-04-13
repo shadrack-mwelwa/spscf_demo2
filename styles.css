@@ -4826,7 +4826,7 @@ input[type=submit]:where(:hover, :active)
     text-align: center;
   }
   .donatePage .donationPageHeader{
-    font-size: 3rem;
+    font-size: 2.5rem;
     font-weight: 400;
     text-align: left;
     margin: 5rem 3rem 2rem 3rem;
@@ -4920,6 +4920,7 @@ input[type=submit]:where(:hover, :active)
   .donatePage .moreInfo{
     padding: 2rem 0rem 2rem 0rem;
   }
+    
   .donatePage .moreInfo dl{
       font-size: 5rem;
       margin: 0 3rem 0 3rem;
@@ -4937,6 +4938,18 @@ input[type=submit]:where(:hover, :active)
     }
     .donatePage .moreInfo .mobileMoneyNote i{
         line-height: 1;
+    }
+  
+    .donatePage dl{
+        margin: 0 3rem;
+        font-size: 2.5rem;
+        font-family: var(--header-font);
+    }
+    .donatePage dl dt{
+        color: var(--header-color);
+    }
+    .donatePage dl dd{
+        color: var(--text-color);
     }
   .donatePage form{
     width: 90%;
@@ -5022,7 +5035,7 @@ input[type=submit]:where(:hover, :active)
     color:var(--bckgnd-white);
   }
     .donatePage .donationPageHeader{
-    font-size: 3rem;
+    font-size: 2.5rem;
     font-weight: 400;
     text-align: left;
     margin: 5rem 3rem 2rem 3rem;
@@ -5141,6 +5154,17 @@ input[type=submit]:where(:hover, :active)
         font-size: 2rem;
         margin: 1rem 3rem 1rem 3rem;
         font-family: var(--secondary-font);
+        color: var(--text-color);
+    }
+    .donatePage dl{
+        margin: 0 3rem;
+        font-size: 2.5rem;
+        font-family: var(--header-font);
+    }
+    .donatePage dl dt{
+        color: var(--header-color);
+    }
+    .donatePage dl dd{
         color: var(--text-color);
     }
   .donatePage form{
@@ -5350,6 +5374,17 @@ input[type=submit]:where(:hover, :active)
         color: var(--text-color);
         text-align: center;
     }
+   .donatePage dl{
+        margin: 0 3rem;
+        font-size: 2.5rem;
+        font-family: var(--header-font);
+    }
+    .donatePage dl dt{
+        color: var(--header-color);
+    }
+    .donatePage dl dd{
+        color: var(--text-color);
+    }
   .donatePage form{
     width: 90%;
     max-width: 70rem;
@@ -5534,6 +5569,17 @@ input[type=submit]:where(:hover, :active)
         font-family: var(--secondary-font);
         color: var(--text-color);
         text-align: center;
+    }
+   .donatePage dl{
+        margin: 0 3rem;
+        font-size: 2.5rem;
+        font-family: var(--header-font);
+    }
+    .donatePage dl dt{
+        color: var(--header-color);
+    }
+    .donatePage dl dd{
+        color: var(--text-color);
     }
   .donatePage form{
     width: 50%;
