@@ -1679,7 +1679,7 @@ input[type=submit]:where(:hover, :active)
   /*Featured Programs*/
   .currentPrograms .programs .featured{
     width: 100%;
-    background-image: url('img/Dr\ Arlok\ Sharma\ with\ a\ patient.JPG');
+    background-image: url('img/doctor with child suffering from cerbral palsy.JPG');
     background-size: cover;  
     display: flex;
     padding-block: 10rem;
@@ -1786,7 +1786,7 @@ input[type=submit]:where(:hover, :active)
   /*Featured Programs*/
   .currentPrograms .programs .featured{
     min-width: 56rem;
-    background-image: url('img/Dr\ Arlok\ Sharma\ with\ a\ patient.JPG');
+    background-image: url('img/doctor with child suffering from cerbral palsy.JPG');
     background-size: cover;  
     display: flex;
     padding-block: 13rem;
@@ -1885,7 +1885,7 @@ input[type=submit]:where(:hover, :active)
   /*Featured Programs*/
   .currentPrograms .programs .featured{
     min-width: 59rem;
-    background-image: url('img/Dr\ Arlok\ Sharma\ with\ a\ patient.JPG');
+    background-image: url('img/doctor with child suffering from cerbral palsy.JPG');
     background-size: cover;  
     display: flex;
     padding-block: 13rem;
@@ -1987,7 +1987,7 @@ input[type=submit]:where(:hover, :active)
     display: flex;
     width: 100%;
     min-width: 59rem;
-    background-image: url('img/Dr\ Arlok\ Sharma\ with\ a\ patient.JPG');
+    background-image: url('img/doctor with child suffering from cerbral palsy.JPG');
     background-size: cover;  
     margin: 0;
   }
@@ -2098,7 +2098,7 @@ input[type=submit]:where(:hover, :active)
     display: flex;
     width: 100%;
     min-width: 59rem;
-    background-image: url('img/Dr\ Arlok\ Sharma\ with\ a\ patient.JPG');
+    background-image: url('img/doctor with child suffering from cerbral palsy');
     background-size: cover;  
     margin: 0;
   }
