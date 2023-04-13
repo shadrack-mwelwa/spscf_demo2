@@ -840,6 +840,7 @@ input[type=submit]:where(:hover, :active)
     object-fit: cover;
     width: clamp(10rem, 12vw, 18rem);
     }
+    
     .primary-header{
       width:100%;
       align-items: center;
@@ -866,6 +867,11 @@ input[type=submit]:where(:hover, :active)
     transform: unset;
     display: inherit;      
   }
+ .primary-header .logo-link .logo{
+        width: 86%;
+        margin: 0 auto;
+        height: 15rem;
+    }
   .primary-navigation li a{
     font-size: 2rem;
     color: var(--text-color);
