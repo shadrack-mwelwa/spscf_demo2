@@ -595,14 +595,14 @@ input[type=submit]:where(:hover, :active)
   .mobile_nav_toggle {
     margin: 0% 0 0 50%;
     aspect-ratio: 1;
-    width: clamp(7.5rem, 1vw ,5.5rem);
+    width: clamp(15.5rem, 1vw ,25.5rem)
     --button-color: var(--blue);
     overflow: hidden;
     cursor: pointer;
   }
   .mobile_nav_toggle .humburger {
     transition: translate 2s, rotate 2s;
-    width: clamp(0rem, 7vw, 5rem);
+    width: clamp(2rem, 5vw, 5rem);
     display: inline-block;
   }
   .mobile_nav_toggle[aria-expanded="true"] .humburger {
