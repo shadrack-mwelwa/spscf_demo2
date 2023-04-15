@@ -6203,6 +6203,7 @@ input[type=submit]:where(:hover, :active)
     line-height: 2.5;
     margin: 2rem 0 0;
     padding: 0;
+    font-size: 1rem;
   }
   footer .footer_section .footerabout .logo{
    margin: auto;
@@ -6214,7 +6215,7 @@ input[type=submit]:where(:hover, :active)
     color: var(--buttons-color);
   }
   footer .footer_section ul li a{
-    font-size: 1.8rem;
+    font-size: 1.4rem;
     line-height: 2.4rem;
     color: var(--text-color);
     font-family: var(--secondary-font);
@@ -6305,7 +6306,7 @@ input[type=submit]:where(:hover, :active)
     word-break: break-word;
   }
   footer .footer_section .footer_contact ul li span{
-    margin: 5px 0.5rem 2rem 1rem;
+    margin: 0px 1.5rem 1rem 1rem;
     color: var(--bckgnd-white);
     font-size: 25px;
   }
@@ -6313,7 +6314,7 @@ input[type=submit]:where(:hover, :active)
     margin: auto;
   }
   footer .footer_section .footer_contact ul li{
-    font-size: 1.4rem;
+    font-size: 1.2rem;
     font-style: normal;
     font-family: var(--secondary-font);
     color: var(--text-color);
@@ -6488,8 +6489,9 @@ input[type=submit]:where(:hover, :active)
   footer .footer_section ul{
     list-style: none;
     line-height: 2.5;
-    margin: 2rem 0 0;
+    margin: 2rem auto;
     padding: 0;
+    width: fit-content;
   }
   footer .footer_section ul li{
     margin: 0 0 1.5rem 0;
