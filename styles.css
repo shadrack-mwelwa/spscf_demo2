@@ -4947,10 +4947,9 @@ input[type=submit]:where(:hover, :active)
     }
   
     .donatePage dl{
-        margin: auto;
+        margin: auto 3rem;
         font-size: 2.5rem;
         font-family: var(--header-font);
-        width: max-content;
     }
     .donatePage dl dt{
         color: var(--header-color);
@@ -5164,10 +5163,10 @@ input[type=submit]:where(:hover, :active)
         color: var(--text-color);
     }
     .donatePage dl{
-        margin: auto;
+        margin: auto 3rem;
         font-size: 2.5rem;
         font-family: var(--header-font);
-        width: max-content;
+        
     }
     .donatePage dl dt{
         color: var(--header-color);
