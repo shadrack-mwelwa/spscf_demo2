@@ -6735,6 +6735,9 @@ input[type=submit]:where(:hover, :active)
     color: var(--bckgnd-white);
   }
   /*Footer Address*/
+  footer .footer_section .footer_contact{
+    min-width: 32rem;
+    }
   footer .footer_section .footer_contact ul li .addrsLink{
     line-height: 1.5;
   }
@@ -6743,7 +6746,7 @@ input[type=submit]:where(:hover, :active)
     word-break: break-word;
   }
   footer .footer_section .footer_contact ul li span{
-    margin: 5px 0.5rem 2rem 1rem;
+    margin: 0px 0.5rem 2rem 0.5rem;
     color: var(--bckgnd-white);
     font-size: 25px;
   }
