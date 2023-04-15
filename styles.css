@@ -595,7 +595,7 @@ input[type=submit]:where(:hover, :active)
   .mobile_nav_toggle {
     margin: 0% 0 0 50%;
     aspect-ratio: 1;
-    width: clamp(15.5rem, 1vw ,25.5rem)
+    width: clamp(15.5rem, 1vw ,25.5rem);
     --button-color: var(--blue);
     overflow: hidden;
     cursor: pointer;
