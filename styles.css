@@ -5351,6 +5351,8 @@ input[type=submit]:where(:hover, :active)
   .donatePage .paymentOptions .option{
     text-align: center;
     margin: 2rem;
+    width: max-content;
+    margin: auto;
   }
   .donatePage .paymentOptions:hover span:hover,
   .donatePage .paymentOptions .option h3:hover{
@@ -5477,8 +5479,8 @@ input[type=submit]:where(:hover, :active)
     .donatePage .donationPageHeader{
     font-size: 3rem;
     font-weight: 400;
-    text-align: left;
-    margin: 5rem 5% 2rem 5%;;
+    margin: 4rem auto;
+    width: max-content;
    }
    .donatePage ul li::before{
         color:var(--header-color);
@@ -5544,6 +5546,8 @@ input[type=submit]:where(:hover, :active)
   .donatePage .paymentOptions{
     justify-content: center;
     padding: 2rem 0rem 2rem 0rem;
+    width: max-content;
+    margin: auto;
   }
   .donatePage .paymentOptions .option{
     text-align: center;
