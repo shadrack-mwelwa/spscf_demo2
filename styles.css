@@ -786,7 +786,7 @@ input[type=submit]:where(:hover, :active)
     font-family: var(--secondary-font);
   }
   .mobile_nav_toggle {
-    margin: 0% 0 0 50%;
+    margin: auto auto auto 78%;
     aspect-ratio: 1;
     width: clamp(7.5rem, 1vw ,5.5rem);
     --button-color: var(--blue);
