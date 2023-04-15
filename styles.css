@@ -650,9 +650,8 @@ input[type=submit]:where(:hover, :active)
     align-items: center;
   }
   .primary-header .logo-link .logo{
-        width: 86%;
-        margin: 0 auto;
-        height: 15rem;
+      width: 40%;
+      margin: auto 0;
   }
   .primary-navigation{
     --gap: 2em;
@@ -699,7 +698,7 @@ input[type=submit]:where(:hover, :active)
   }
   .mobile_nav_toggle .humburger {
     transition: translate 2s, rotate 2s;
-    width: clamp(1.5rem, 1vw, 4rem);
+    width: clamp(2rem, 3vw, 4rem);
     display: inline-block;
   }
   .mobile_nav_toggle[aria-expanded="true"] .humburger {
@@ -747,7 +746,7 @@ input[type=submit]:where(:hover, :active)
     align-items: center;
   }
   .primary-header .logo-link .logo{
-      width: 86%;
+      width: 100%;
       margin: 0 auto;
       height: 15rem;
   }
