@@ -545,7 +545,9 @@ input[type=submit]:where(:hover, :active)
     align-items: center;
   }
   .primary-header .logo-link .logo{
-    width: 70%;
+     width: 86%;
+     margin: 0 auto;
+     height: 15rem;
   }
   .primary-navigation{
     --gap: 2em;
@@ -649,7 +651,9 @@ input[type=submit]:where(:hover, :active)
     align-items: center;
   }
   .primary-header .logo-link .logo{
-    width: 70%;
+        width: 86%;
+        margin: 0 auto;
+        height: 15rem;
   }
   .primary-navigation{
     --gap: 2em;
@@ -744,7 +748,9 @@ input[type=submit]:where(:hover, :active)
     align-items: center;
   }
   .primary-header .logo-link .logo{
-    width: 70%;
+      width: 86%;
+      margin: 0 auto;
+      height: 15rem;
   }
   .primary-navigation{
     --gap: 2em;
