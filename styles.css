@@ -602,7 +602,7 @@ input[type=submit]:where(:hover, :active)
   }
   .mobile_nav_toggle .humburger {
     transition: translate 2s, rotate 2s;
-    width: clamp(1rem, 3vw, 5rem);
+    width: clamp(0rem, 7vw, 5rem);
     display: inline-block;
   }
   .mobile_nav_toggle[aria-expanded="true"] .humburger {
