@@ -4860,10 +4860,15 @@ input[type=submit]:where(:hover, :active)
   }
   .oneTimeDonationSection .defaultArticle {
     font-size: 2rem;
-    margin: 1rem 3rem 1rem 3rem;
+    margin: 1rem 3rem 0rem 3rem;
     font-family: var(--secondary-font);
     color: var(--text-color);
+    text-align: center;
   }
+  .oneTimeDonationSection .paypalButton{
+    margin: auto;
+    width: fit-content;
+    }
   .recuringDonationSection{
     padding: 2rem 2rem 2rem 2rem;
     background: var(--blue-opacity);
