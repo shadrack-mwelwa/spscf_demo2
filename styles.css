@@ -6470,7 +6470,7 @@ input[type=submit]:where(:hover, :active)
   footer .footer_section ul{
     list-style: none;
     line-height: 2.5;
-    margin: 2rem auto;
+    margin: 2rem 2rem;
     padding: 0;
     width: fit-content;
   }
