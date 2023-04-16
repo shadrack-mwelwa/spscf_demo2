@@ -2011,7 +2011,7 @@ input[type=submit]:where(:hover, :active)
     padding: 1.5em;
     overflow: hidden;
     position: relative;
-    top: 17rem;
+    top: 8rem;
   }
   .currentPrograms .programs .featured article h3{
     font-size: clamp(3.2rem, 4vw, 4.9rem);
