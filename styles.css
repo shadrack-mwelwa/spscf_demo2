@@ -6458,6 +6458,9 @@ input[type=submit]:where(:hover, :active)
     flex: 1;
   }
   /*Footer Defaults*/
+  .footer_contact{
+    min-width:100%;
+    }
   .footerAbout, 
   .usefulLinks, .latestNews, .footer_contact{
     width: 100%;
