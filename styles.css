@@ -6474,6 +6474,11 @@ input[type=submit]:where(:hover, :active)
     padding: 0;
     width: fit-content;
   }
+  footer .footer_section .usefulLinks ul{
+    text-align: center;
+     margin: auto;
+      
+    }
   footer .footer_section ul li{
     margin: 0 0 1.5rem 0;
   }
