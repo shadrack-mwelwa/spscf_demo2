@@ -5090,6 +5090,11 @@ input[type=submit]:where(:hover, :active)
     font-family: var(--secondary-font);
     color: var(--text-color);
   }
+  .recuringDonationSection .paypalButton{
+    margin: auto;
+    width: fit-content;
+    }
+  
   /*Donate Utility End*/
    
   .donatePage .paymentOptions h1{
