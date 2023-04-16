@@ -1896,10 +1896,11 @@ input[type=submit]:where(:hover, :active)
   .currentPrograms .programs .featured{
     min-width: 59rem;
     background-image: url('img/doctor with child suffering from cerbral palsy.JPG');
-    background-size: cover;  
     display: flex;
     padding-block: 13rem;
     margin: 0 8rem;
+    background-position: 50% 30%;
+    background-size: 100%;
   }
   .currentPrograms .programs .featured article{
     text-align: left;
