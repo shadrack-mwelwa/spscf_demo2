@@ -4887,6 +4887,10 @@ input[type=submit]:where(:hover, :active)
     font-family: var(--secondary-font);
     color: var(--text-color);
   }
+  .recuringDonationSection .paypalButton{
+    margin: auto;
+    width: fit-content;
+    }
   /*Donate Utility End*/
    
   .donatePage .paymentOptions h1{
@@ -5076,6 +5080,10 @@ input[type=submit]:where(:hover, :active)
     font-family: var(--secondary-font);
     color: var(--text-color);
   }
+  .oneTimeDonationSection .paypalButton{
+    margin: auto;
+    width: fit-content;
+    }
   .recuringDonationSection{
     padding: 2rem 2rem 2rem 2rem;
     background: var(--blue-opacity);
