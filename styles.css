@@ -4898,18 +4898,6 @@ input[type=submit]:where(:hover, :active)
     font-size: 2.7rem;
     margin: 0rem 0rem 0rem 6rem;
   }
-  .donatePage .donateHeader{
-    background-image: url("img/Smilling parents after recieving specialiesed wheelchairs.jpg");
-    background-size: cover;
-    padding-block: 21rem;
-    box-shadow: inset 0 0 0 27rem var(--blue-opacity);
-    background-position: center;
-  }
-  .donatePage .donateHeader h1{
-    color: var(--bckgnd-white);
-    margin: 0;
-    font-size: 7rem;
-  }
   .donatePage .donateHeader .usCtznsHdr{
     font-size: 6rem;
   }
@@ -5043,17 +5031,7 @@ input[type=submit]:where(:hover, :active)
   .donatePage .donateHeader h1{
     color:var(--bckgnd-white);
   }
-  .donatePage .donateHeader{
-    background-image: url("img/Smilling parents after recieving specialiesed wheelchairs.jpg");
-    background-size: cover;
-    padding-block: 4rem;
-    box-shadow: inset 0 0 0 20rem var(--blue-opacity);
-    background-position: center;
-  }
-  .donatePage .donateHeader h1{
-    color:var(--bckgnd-white);
-  }
-    .donatePage .donationPageHeader{
+   .donatePage .donationPageHeader{
     font-size: 2.5rem;
     font-weight: 400;
     text-align: left;
@@ -5123,18 +5101,7 @@ input[type=submit]:where(:hover, :active)
     font-size: 2.7rem;
     margin: 0rem 0rem 0rem 6rem;
   }
-  .donatePage .donateHeader{
-    background-image: url("img/Smilling parents after recieving specialiesed wheelchairs.jpg");
-    background-size: cover;
-    padding-block: 21rem;
-    box-shadow: inset 0 0 0 27rem var(--blue-opacity);
-    background-position: center;
-  }
-  .donatePage .donateHeader h1{
-    color: var(--bckgnd-white);
-    margin: 0;
-    font-size: 7rem;
-  }
+  
   .donatePage .donateHeader .usCtznsHdr{
     font-size: 6rem;
   }
@@ -5264,17 +5231,7 @@ input[type=submit]:where(:hover, :active)
     margin: 0;
     font-size: 7rem;
   }
-  .donatePage .donateHeader{
-    background-image: url("img/Smilling parents after recieving specialiesed wheelchairs.jpg");
-    background-size: cover;
-    padding-block: 4rem;
-    box-shadow: inset 0 0 0 20rem var(--blue-opacity);
-    background-position: center;
-  }
-  .donatePage .donateHeader h1{
-    color:var(--bckgnd-white);
-  }
-    .donatePage .donationPageHeader{
+  .donatePage .donationPageHeader{
     font-size: 3rem;
     font-weight: 400;
     text-align: left;
@@ -5344,18 +5301,7 @@ input[type=submit]:where(:hover, :active)
     font-size: 2.7rem;
     margin: 0rem 0rem 0rem 6rem;
   }
-  .donatePage .donateHeader{
-    background-image: url("img/Smilling parents after recieving specialiesed wheelchairs.jpg");
-    background-size: cover;
-    padding-block: 21rem;
-    box-shadow: inset 0 0 0 27rem var(--blue-opacity);
-    background-position: center;
-  }
-  .donatePage .donateHeader h1{
-    color: var(--bckgnd-white);
-    margin: 0;
-    font-size: 7rem;
-  }
+  
   .donatePage .donateHeader .usCtznsHdr{
     font-size: 6rem;
   }
