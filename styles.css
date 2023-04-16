@@ -2000,6 +2000,8 @@ input[type=submit]:where(:hover, :active)
     background-image: url('img/doctor with child suffering from cerbral palsy.JPG');
     background-size: cover;  
     margin: 0;
+    padding-block: 4rem;
+    background-position: 50% 30%;
   }
   .currentPrograms .programs .featured article{
     height: 35%;
