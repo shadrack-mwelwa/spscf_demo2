@@ -1933,7 +1933,7 @@ input[type=submit]:where(:hover, :active)
   }
   .currentPrograms .nonefeatured .container{
     overflow: hidden;
-    margin: 1rem 2rem 0.5rem 0rem;
+    margin: 1rem 7rem 0.5rem;
     justify-content: center;
     flex-wrap: wrap;
   }
