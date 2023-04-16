@@ -5288,6 +5288,7 @@ input[type=submit]:where(:hover, :active)
     margin: 1rem 3rem 1rem 3rem;
     font-family: var(--secondary-font);
     color: var(--text-color);
+    text-align: center;
   }
   .recuringDonationSection{
     padding: 2rem 2rem 2rem 2rem;
@@ -5302,6 +5303,7 @@ input[type=submit]:where(:hover, :active)
     margin: 1rem 3rem 1rem 3rem;
     font-family: var(--secondary-font);
     color: var(--text-color);
+    text-align: center;
   }
   /*Donate Utility End*/
    
