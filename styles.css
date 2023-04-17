@@ -5736,7 +5736,7 @@ input[type=submit]:where(:hover, :active)
     margin: 2rem 0rem;
   }
   .newsPage .cardStory a{
-    padding: 0rem 4rem 0 4rem
+    padding: 0rem 4rem 0 4rem;
     flex-wrap: wrap;
   }
   .newsPage .cardStory .cardStoryImage{
@@ -6171,7 +6171,7 @@ input[type=submit]:where(:hover, :active)
      min-width: 40%;
      max-height: 40rem;
      object-fit: cover;
-
+  }
 
 }
 /*for-big-desktop-up */
@@ -6292,8 +6292,8 @@ input[type=submit]:where(:hover, :active)
   footer .footer_section p{
     font-size: 1.5rem;
   }
-  footer .usefulLinks ul
-  /*Footer Useful Links Privacy Policy*/
+  footer .usefulLinks ul,
+  footer .usefulLinks .PrivacyPolicy,
   footer .usefulLinks ul .PrivacyPolicy{
     font-family: var(--secondary-font);
   }
@@ -6837,6 +6837,7 @@ input[type=submit]:where(:hover, :active)
   }
   
 }
+
 /* for-big-desktop-up */
 @media (min-width: 112.5em) { 
   footer{
