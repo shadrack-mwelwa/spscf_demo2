@@ -6216,6 +6216,7 @@ input[type=submit]:where(:hover, :active)
   footer .footer_section p{
     font-size: 1.5rem;
   }
+  footer .usefulLinks ul
   /*Footer Useful Links Privacy Policy*/
   footer .usefulLinks ul .PrivacyPolicy{
     font-family: var(--secondary-font);
@@ -6509,6 +6510,9 @@ input[type=submit]:where(:hover, :active)
   footer .footer_section p{
     font-size: 1.1rem;
   }
+  footer .usefulLinks ul li{
+    margin-bottom: 3rem;
+    }
   /*Footer Useful Links Privacy Policy*/
   footer .usefulLinks ul .PrivacyPolicy{
     font-family: var(--secondary-font);
