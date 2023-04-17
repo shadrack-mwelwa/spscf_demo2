@@ -5899,6 +5899,10 @@ input[type=submit]:where(:hover, :active)
     grid-column: 1/2;
     grid-row: 1/2;
   }
+  .articlePost .articleMain h2{
+    font-size: 3rem;
+    margin: 2rem auto auto auto;
+    }
   .articlePost .articleMain .articleImage{
     aspect-ratio: 3/1;
     object-fit: cover;
@@ -5916,6 +5920,15 @@ input[type=submit]:where(:hover, :active)
     margin: 0.5rem 0.5rem;
     color: var(--text-color);
   }
+  .articlePost .articleMain .articleBody .rehabCenter{
+      flex-wrap: wrap;
+    }
+  .articlePost .articleMain .articleBody .rehabCenter >*{
+      flex: 1;    
+   }
+  .articlePost .articleMain .articleBody .rehabCenter img{ 
+     
+   }
 }
 /*for-tablet-portrait-up */
 @media (min-width: 37.5em) {
