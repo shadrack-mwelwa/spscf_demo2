@@ -6627,6 +6627,9 @@ input[type=submit]:where(:hover, :active)
     margin: 2rem 0 0;
     padding: 0;
   }
+  footer .footer_section .latestNews ul {
+    margin: 2rem auto;
+    }
   footer .footer_section ul li{
     margin: 0 0 1.5rem 0;
   }
